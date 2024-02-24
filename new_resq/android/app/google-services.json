@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892686614763",
+    "project_id": "resq-firebase-906c9",
+    "storage_bucket": "resq-firebase-906c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892686614763:android:82a81f18c5fffde530feae",
+        "android_client_info": {
+          "package_name": "com.example.new_resq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyg0Mnzv4niDh3wr-s7zLZNZ4UD1QP6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
